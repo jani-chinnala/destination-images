@@ -1,0 +1,19 @@
+.super {
+  height: 200px;
+  width: 300px;
+}
+
+.hope {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 0px 20px 0px 20px;
+  list-style-type: none;
+}
+
+.head {
+  text-align: center;
+}
+.jana {
+  list-style-type: none;
+}
